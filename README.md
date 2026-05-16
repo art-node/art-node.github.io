@@ -1,2 +1,2 @@
 # node
-an experimental personal portfolio
+an experimental personal proyect
