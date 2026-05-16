@@ -35,7 +35,7 @@ var FOTOS = [
   },
 
   {
-    img: "photos/photo1.png",
+    img: "image14.png",
     tag: "Fotografía · Blanco y negro",
     cap: "Tú has estado creando, y nosotros también. Acompáñanos en un evento virtual el 13 de mayo para descubrir en primicia nuestra nueva Plataforma para desarrolladores. Tú has estado creando, y nosotros también. Acompáñanos en un evento virtual el 13 de mayo para descubrir en primicia nuestra nueva Plataforma para desarrolladores. ú has estado creando, y nosotros también. Acompáñanos en un evento virtual el 13 de mayo para descubrir en primicia nuestra nueva Plataforma para desarrolladores. Tú has estado creando, y nosotros también. Acompáñanos en un evento virtual el 13 de mayo para descubrir en primicia nuestra nueva Plataforma para desarrolladores ú has estado creando, y nosotros también. Acompáñanos en un evento virtual el 13 de mayo para descubrir en primicia nuestra nueva Plataforma para desarrolladores. Tú has estado creando, y nosotros también. Acompáñanos en un evento virtual el 13 de mayo para descubrir en primicia nuestra nueva Plataforma para desarrolladores",
     meta: "Canon EOS R5 · f/8 · 1/250s · ISO 100\nPrompt: woman coffee window morning light"
