@@ -57,7 +57,7 @@ var FOTOS = [
 
 
   {
-    img: "https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?q=80&w=1920",
+    img: "https://res.cloudinary.com/ddxf0g489/image/upload/v1778939119/image_1_knvvdj.png",
     tag: "Retrato · Studio",
     cap: "Luz lateral, sombra profunda. El rostro como territorio.",
     meta: "Vertex AI · Imagen 3\nPrompt: cinematic portrait side lighting deep shadow editorial"
